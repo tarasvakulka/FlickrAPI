@@ -1,0 +1,17 @@
+
+main div.photos {
+	background: rgb(209, 192, 192);
+	border: 1px solid brown;
+	height: 400px;
+	width: 700px;
+	margin: auto;
+}
+img {
+	margin-top: 50px;
+	margin-left: 210px;
+}
+#inputblock {
+	width: 250px;
+	margin: auto;
+	padding-top: 10px;
+}
